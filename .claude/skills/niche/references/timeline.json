@@ -1,0 +1,25 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "reference_bpm": 129,
+  "shots": [
+    {"id": "S1",  "in": 0.00,  "out": 1.20,  "bw": false},
+    {"id": "S2",  "in": 1.20,  "out": 2.40,  "bw": false},
+    {"id": "S3",  "in": 2.40,  "out": 3.27,  "bw": false},
+    {"id": "S4",  "in": 3.27,  "out": 4.53,  "bw": false},
+    {"id": "S5",  "in": 4.53,  "out": 5.17,  "bw": false},
+    {"id": "S6",  "in": 5.17,  "out": 6.63,  "bw": true},
+    {"id": "S7",  "in": 6.63,  "out": 7.17,  "bw": false},
+    {"id": "S8",  "in": 7.17,  "out": 8.27,  "bw": false},
+    {"id": "S9",  "in": 8.27,  "out": 8.83,  "bw": false},
+    {"id": "S10", "in": 8.83,  "out": 9.43,  "bw": false},
+    {"id": "S11", "in": 9.43,  "out": 9.83,  "bw": false},
+    {"id": "S12", "in": 9.83,  "out": 10.43, "bw": false},
+    {"id": "S13", "in": 10.43, "out": 10.90, "bw": false},
+    {"id": "S14", "in": 10.90, "out": 11.93, "bw": true},
+    {"id": "S15", "in": 11.93, "out": 12.57, "bw": true},
+    {"id": "S16", "in": 12.57, "out": 15.07, "bw": false},
+    {"id": "S17", "in": 15.07, "out": 16.53, "bw": true}
+  ]
+}
